@@ -5,6 +5,11 @@
         <RootNamespace>health_calc_pack_dotnet</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <Title>Health Pack</Title>
+        <Authors>mieldazis</Authors>
+        <Description>Projeto para cálculo do IMC</Description>
+        <RepositoryUrl>https://github.com/mldzs/health-calc-pack-dotnet</RepositoryUrl>
+        <PackageId>health-calc-pack-dotnet-mldzs</PackageId>
     </PropertyGroup>
 
 </Project>

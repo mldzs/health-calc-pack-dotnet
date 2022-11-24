@@ -8,4 +8,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="health-calc-pack-dotnet-mldzs" Version="1.0.0" />
+    </ItemGroup>
+
 </Project>
