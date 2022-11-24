@@ -103,3 +103,10 @@ Criar uma nova instância das classes que darão acesso as funções:
 
 - Macronutriente
   - Calc (realiza o cálculo do consumo diário de macronutrientes)
+
+# Exemplos
+
+Segue exemplo de utilização em uma API:
+
+<img src='rotatrab.png' alt='Rota 1'>
+<img src='rotatrab2.png' alt='Rota 2'>

@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "health-calc-console-dotnet"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "health-calc-test-xunit", "health-calc-test-xunit\health-calc-test-xunit.csproj", "{DE03878F-A951-4B1E-A367-36F1FC769577}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "health-calc-api-dotnet", "health-calc-api-dotnet\health-calc-api-dotnet.csproj", "{C8AE93B4-C8D2-46CE-836F-12E366D2D026}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{DE03878F-A951-4B1E-A367-36F1FC769577}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE03878F-A951-4B1E-A367-36F1FC769577}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE03878F-A951-4B1E-A367-36F1FC769577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8AE93B4-C8D2-46CE-836F-12E366D2D026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AE93B4-C8D2-46CE-836F-12E366D2D026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AE93B4-C8D2-46CE-836F-12E366D2D026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AE93B4-C8D2-46CE-836F-12E366D2D026}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
