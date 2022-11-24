@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "health-calc-pack-dotnet", "health-calc-pack-dotnet\health-calc-pack-dotnet.csproj", "{DDE172E1-ECCF-4906-B965-5AB9EAF96DCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "health-calc-console-dotnet", "health-calc-console-dotnet\health-calc-console-dotnet.csproj", "{1232D0CA-0FBD-4D92-B8D5-3D3607AA9F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "health-calc-test-xunit", "health-calc-test-xunit\health-calc-test-xunit.csproj", "{DE03878F-A951-4B1E-A367-36F1FC769577}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{DDE172E1-ECCF-4906-B965-5AB9EAF96DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDE172E1-ECCF-4906-B965-5AB9EAF96DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDE172E1-ECCF-4906-B965-5AB9EAF96DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1232D0CA-0FBD-4D92-B8D5-3D3607AA9F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1232D0CA-0FBD-4D92-B8D5-3D3607AA9F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1232D0CA-0FBD-4D92-B8D5-3D3607AA9F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1232D0CA-0FBD-4D92-B8D5-3D3607AA9F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE03878F-A951-4B1E-A367-36F1FC769577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE03878F-A951-4B1E-A367-36F1FC769577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE03878F-A951-4B1E-A367-36F1FC769577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE03878F-A951-4B1E-A367-36F1FC769577}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
